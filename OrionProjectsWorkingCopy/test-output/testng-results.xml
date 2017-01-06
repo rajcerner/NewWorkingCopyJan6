@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="132133" started-at="2017-01-06T04:10:20Z" finished-at="2017-01-06T04:12:32Z">
+  <suite name="Suite" duration-ms="148677" started-at="2017-01-06T09:23:22Z" finished-at="2017-01-06T09:25:51Z">
     <groups>
     </groups>
-    <test name="Orn_Vr_VisitList" duration-ms="132133" started-at="2017-01-06T04:10:20Z" finished-at="2017-01-06T04:12:32Z">
+    <test name="Orn_Vr_VisitList" duration-ms="148677" started-at="2017-01-06T09:23:22Z" finished-at="2017-01-06T09:25:51Z">
       <class name="com.cerner.pctorion.chartTests.ORN_VR_VISITLIST">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cerner.pctorion.chartTests.ORN_VR_VISITLIST@25bbe1b6]" name="setup" is-config="true" duration-ms="1819" started-at="2017-01-06T09:40:20Z" finished-at="2017-01-06T09:40:22Z">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cerner.pctorion.chartTests.ORN_VR_VISITLIST@5f2108b5]" name="setup" is-config="true" duration-ms="1342" started-at="2017-01-06T14:53:22Z" finished-at="2017-01-06T14:53:23Z">
           <params>
             <param index="0">
               <value>
@@ -28,11 +28,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="ornVrVisitList()[pri:0, instance:com.cerner.pctorion.chartTests.ORN_VR_VISITLIST@25bbe1b6]" name="ornVrVisitList" duration-ms="129959" started-at="2017-01-06T09:40:22Z" finished-at="2017-01-06T09:42:32Z">
+        <test-method status="PASS" signature="ornVrVisitList()[pri:0, instance:com.cerner.pctorion.chartTests.ORN_VR_VISITLIST@5f2108b5]" name="ornVrVisitList" duration-ms="147015" started-at="2017-01-06T14:53:23Z" finished-at="2017-01-06T14:55:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ornVrVisitList -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cerner.pctorion.chartTests.ORN_VR_VISITLIST@25bbe1b6]" name="tearDown" is-config="true" duration-ms="341" started-at="2017-01-06T09:42:32Z" finished-at="2017-01-06T09:42:32Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cerner.pctorion.chartTests.ORN_VR_VISITLIST@5f2108b5]" name="tearDown" is-config="true" duration-ms="309" started-at="2017-01-06T14:55:50Z" finished-at="2017-01-06T14:55:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
